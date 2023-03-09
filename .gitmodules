@@ -1,3 +1,5 @@
 [submodule "gutenberg"]
 	path = gutenberg
 	url = ./gutenberg
+[submodule "./gutenberg"]
+	url = https://github.com/pgcorpus/gutenberg.git
